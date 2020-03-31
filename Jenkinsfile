@@ -1,1 +1,1 @@
-node()
+node(maven-label){}
